@@ -7,7 +7,7 @@ Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affi
 
 - RIOT33k - setting up communications, making concepts and learning HTML
 
-- Dudebloke - programming..?
+- Dudebloke - assorted work
 
 - kinery - giving tips and helping us with our clients, code and repositories
 
@@ -48,3 +48,7 @@ Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affi
 - luftalagi - quality assurance tester
 
 **WE APPRECIATE OUR STAFF!**
+
+## Join our Discord server!
+
+Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
