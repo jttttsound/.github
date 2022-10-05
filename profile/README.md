@@ -19,7 +19,7 @@ Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affi
 
 - thexkey - helping with our clients
 
-- suspecting - idk yet lol
+- suspecting - API
 
 ## Other amazing staff members
 
