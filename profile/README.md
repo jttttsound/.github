@@ -32,6 +32,8 @@ Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
 **We appreciate your contributions to Rowblox. Farewell!** 💙
 
+*If any former developers would like to have their names hidden, let Row, RIOT33k or Dudebloke know!
+
 # Other amazing staff members
 
 #### Admins
@@ -85,4 +87,4 @@ Visit our official site by clicking [here!](https://rowblx.xyz)
 
 Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
 
-> Last commit by RIOT33k at 23:58 CST
+> Last commit by RIOT33k at 00:11 Central Time
