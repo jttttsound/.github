@@ -1,11 +1,16 @@
-# What is Rowblox?
-Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affiliated with the ROBLOX Corporation. 
+# What is Rowblox? 
 
-## Here's our amazing developer team!
+Rowblox is an upcoming ROBLOX revival that features the 2013 and 2015 ROBLOX revivals! Our name is based of the name of the creator, Row. We have a nice community and website layout, please join us! Rowblox is not affiliated with the ROBLOX Corporation.
+
+Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
+
+# Here's our amazing developer team!
+
+#### Developers
 
 - row - owner of Rowblox and in charge of patching the 2015M client
 
-- RIOT33k - setting up communications, making concepts and learning HTML
+- RIOT33k - setting up communications, making concepts and learning HTML for website design
 
 - Dudebloke - assorted work
 
@@ -21,34 +26,63 @@ Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affi
 
 - suspecting - API
 
-## Other amazing staff members
+#### Former Developers
 
-- worker - catalog manager
+- frickinfire - clients, site design, and basically everything else lmfao
 
-- jeck - catalog manager
+**We appreciate your contributions to Rowblox. Farewell!** 💙
 
-- jackd900 - quality assurance tester
+# Other amazing staff members
 
-- goomy - quality assurance tester
+#### Admins
 
-- theodore - quality assurance tester
+None... yet!
 
-- Trubo - quality assurance tester
+#### Moderators
 
-- lu00 - quality assurance tester
+None... yet!
 
-- unexp - quality assurance tester
+#### Catalog Managers
+- worker
 
-- BLU - quality assurance tester
+- jeck
 
-- DarDarDar - quality assurance tester
+# Honorable Mentions
 
-- KinetiK7475 - quality assurance tester
+#### Partners:
 
-- luftalagi - quality assurance tester
+- RIOT33k - ORC Court Community
 
-**WE APPRECIATE OUR STAFF!**
+- theodore - Project Ruby
 
-## Join our Discord server!
+#### Contributors
+
+- goomy
+
+#### QA Testers (Quality Assurance)
+
+- jackd900
+
+- Trubo
+
+- lu00
+
+- unexp
+
+- BLU
+
+- DarDarDar
+
+- KinetiK7475
+
+- luftalagi
+
+**Rowblox appreciates all of your volunteer work! Your help makes the future of Rowblox brighter! ✨** 💙
+
+# Resources
+
+Visit our official site by clicking [here!](https://rowblx.xyz)
 
 Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
+
+> Last commit by RIOT33k at 23:58 CST
