@@ -24,7 +24,7 @@ Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
 - thexkey - helping with our clients
 
-- suspecting - API
+- Lua - API
 
 #### Former Developers
 
