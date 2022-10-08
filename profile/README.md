@@ -38,16 +38,17 @@ Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
 #### Admins
 
-None... yet!
+- worker
 
 #### Moderators
 
 None... yet!
 
 #### Catalog Managers
-- worker
 
 - jeck
+
+- unexp
 
 # Honorable Mentions
 
