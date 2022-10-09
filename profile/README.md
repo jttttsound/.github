@@ -1,6 +1,6 @@
 # What is Rowblox? 
 
-Rowblox is an upcoming ROBLOX revival that features the 2013 and 2015 ROBLOX revivals! Our name is based of the name of the creator, Row. We have a nice community and website layout, please join us! Rowblox is not affiliated with the ROBLOX Corporation.
+Rowblox is an upcoming ROBLOX revival that features the 2013 and 2015 ROBLOX clients! Our name is based of the name of the creator, Row. We have a nice community and website layout, please join us! Rowblox is not affiliated with the ROBLOX Corporation.
 
 Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
@@ -26,6 +26,8 @@ Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
 - Lua - API
 
+- unexp - website design and knows node.js
+
 #### Former Developers
 
 - frickinfire - clients, site design, and basically everything else lmfao
@@ -48,7 +50,6 @@ None... yet!
 
 - jeck
 
-- unexp
 
 # Honorable Mentions
 
@@ -62,9 +63,9 @@ None... yet!
 
 - goomy
 
-#### QA Testers (Quality Assurance)
-
 - jackd900
+
+#### QA Testers (Quality Assurance)
 
 - Trubo
 
@@ -88,4 +89,4 @@ Visit our official site by clicking [here!](https://rowblx.xyz)
 
 Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
 
-> Last commit by RIOT33k at 00:11 Central Time
+> Last commit by RIOT33k at 20:03 Central Time, October 8th, 2022
