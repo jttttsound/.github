@@ -8,29 +8,31 @@ Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
 #### Developers
 
-- row - owner of Rowblox and in charge of patching the 2015M client
+- [Row](https://github.com/ROEvGABE) - owner of Rowblox and in charge of patching the 2015M client
 
-- RIOT33k - setting up communications, making concepts and learning HTML for website design
+- [riot33k](https://github.com/riot33k) - setting up communications, making concepts and learning HTML for website design
 
-- Dudebloke - assorted work
+- [Dudebloke](https://github.com/Bounceysteve99) - assorted work
 
-- kinery - giving tips and helping us with our clients, code and repositories
+- [kinery](https://github.com/kineryy) - giving tips and helping us with our clients, code and repositories
 
-- I-Have-An-Issue - in charge of programming languages and website
+- [I-Have-An-Issue](https://github.com/I-Have-An-Issue) - in charge of programming languages and website
 
-- penguinlambz - patched the 2013M client
+- [penguinlambz](https://github.com/penguinlambz) - patched the 2013M client
 
-- idksalem - setting up communications, and working on website
+- [salem](https://github.com/idksalem) - setting up communications, and working on website
 
-- thexkey - helping with our clients
+- [thexkey](https://github.com/samdisk11) - helping with our clients
 
-- Lua - API
+- [lua/suspecting](https://github.com/suspecting) - API
 
-- unexp - website design and knows node.js
+- [unexp](https://github.com/unexp) - website design and knows node.js
+
+- [goomy](https://github.com/MarkMrGamer) - making art and web site
 
 #### Former Developers
 
-- frickinfire - clients, site design, and basically everything else lmfao
+- [frickinfire](https://github.com/frickinfire) - clients, site design, and basically everything else lmfao
 
 **We appreciate your contributions to Rowblox. Farewell!** 💙
 
@@ -61,8 +63,6 @@ None... yet!
 
 #### Contributors
 
-- goomy
-
 - jackd900
 
 #### QA Testers (Quality Assurance)
@@ -83,9 +83,9 @@ None... yet!
 
 - eld
 
-- mc
+- Mc
 
-- hellofuter
+- Hellofuter
 
 - nightfall
 
@@ -97,4 +97,4 @@ Visit our official site by clicking [here!](https://rowblx.xyz)
 
 Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
 
-> Last commit by RIOT33k at 20:03 Central Time, October 8th, 2022
+> Last commit by RIOT33k at 15:14 Central Time, October 12th, 2022
