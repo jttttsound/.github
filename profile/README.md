@@ -95,6 +95,6 @@ None... yet!
 
 Visit our official site by clicking [here!](https://rowblx.xyz)
 
-Join the Official Rowblox Discord by clicking [here!](https://discord.gg/6ntJjZsDy4)
+Join the Official Rowblox Discord by clicking [here!](https://discord.gg/mbXanczQqu)
 
 > Last commit by RIOT33k at 15:14 Central Time, October 12th, 2022
