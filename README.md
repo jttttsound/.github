@@ -2,53 +2,103 @@
 We have moved to a dedicated git server.  
 The Rowblox GitHub Organization will no longer be used for development.
 
-# What is Rowblox?
-Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affiliated with the ROBLOX Corporation. 
+# What is Rowblox? 
 
-## Here's our amazing developer team!
+Rowblox is an upcoming ROBLOX revival that features the 2013 and 2015 ROBLOX clients! Our name is based of the name of the creator, Row. We have a nice community and website layout, please join us! Rowblox is not affiliated with the ROBLOX Corporation.
 
-- row - owner of Rowblox and in charge of patching the 2015M client
+Rowblox is ran by three friends: Row, RIOT33k and Dudebloke.
 
-- RIOT33k - setting up communications, making concepts and learning HTML
+# Here's our amazing developer team!
 
-- Dudebloke - programming..?
+#### Developers
 
-- kinery - giving tips and helping us with our clients, code and repositories
+- [Row](https://github.com/ROEvGABE) - owner of Rowblox and in charge of patching the 2015M client
 
-- I-Have-An-Issue - in charge of programming languages and website
+- [riot33k](https://github.com/riot33k) - setting up communications, making concepts and learning HTML for website design
 
-- penguinlambz - patched the 2013M client
+- [Dudebloke](https://github.com/Bounceysteve99) - assorted work
 
-- idksalem - setting up communications, and working on website
+- [kinery](https://github.com/kineryy) - giving tips and helping us with our clients, code and repositories
 
-- thexkey - helping with our clients
+- [I-Have-An-Issue](https://github.com/I-Have-An-Issue) - in charge of programming languages and website
 
-- suspecting - idk yet lol
+- [penguinlambz](https://github.com/penguinlambz) - patched the 2013M client
 
-## Other amazing staff members
+- [salem](https://github.com/idksalem) - setting up communications, and working on website
 
-- worker - catalog manager
+- [thexkey](https://github.com/samdisk11) - helping with our clients
 
-- jeck - catalog manager
+- [lua/suspecting](https://github.com/suspecting) - API
 
-- jackd900 - quality assurance tester
+- [unexp](https://github.com/unexp) - website design and knows node.js
 
-- goomy - quality assurance tester
+- [goomy](https://github.com/MarkMrGamer) - making art and web site
 
-- theodore - quality assurance tester
+#### Former Developers
 
-- Trubo - quality assurance tester
+- [frickinfire](https://github.com/frickinfire) - clients, site design, and basically everything else lmfao
 
-- lu00 - quality assurance tester
+**We appreciate your contributions to Rowblox. Farewell!** 💙
 
-- unexp - quality assurance tester
+*If any former developers would like to have their names hidden, let Row, RIOT33k or Dudebloke know!
 
-- BLU - quality assurance tester
+# Other amazing staff members
 
-- DarDarDar - quality assurance tester
+#### Admins
 
-- KinetiK7475 - quality assurance tester
+- worker
 
-- luftalagi - quality assurance tester
+#### Moderators
 
-**WE APPRECIATE OUR STAFF!**
+None... yet!
+
+#### Catalog Managers
+
+- jeck
+
+
+# Honorable Mentions
+
+#### Partners:
+
+- RIOT33k - ORC Court Community
+
+- theodore - Project Ruby
+
+#### Contributors
+
+- jackd900
+
+#### QA Testers (Quality Assurance)
+
+- Trubo
+
+- lu00
+
+- unexp
+
+- BLU
+
+- DarDarDar
+
+- KinetiK7475
+
+- luftalagi
+
+- eld
+
+- Mc
+
+- Hellofuter
+
+- nightfall
+
+**Rowblox appreciates all of your volunteer work! Your help makes the future of Rowblox brighter! ✨** 💙
+
+# Resources
+
+Visit our official site by clicking [here!](https://rowblx.xyz)
+
+Join the Official Rowblox Discord by clicking [here!](https://discord.gg/mbXanczQqu)
+
+> Last commit by RIOT33k at 15:14 Central Time, October 12th, 2022
