@@ -1,3 +1,7 @@
+# Notice
+We have moved to a dedicated git server.  
+The Rowblox GitHub Organization will no longer be used for development.
+
 # What is Rowblox? 
 
 Rowblox is an upcoming ROBLOX revival that features the 2013 and 2015 ROBLOX clients! Our name is based of the name of the creator, Row. We have a nice community and website layout, please join us! Rowblox is not affiliated with the ROBLOX Corporation.
