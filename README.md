@@ -1,3 +1,7 @@
+# Notice
+We have moved to a dedicated git server.  
+The Rowblox GitHub Organization will no longer be used for development.
+
 # What is Rowblox?
 Rowblox is a ROBLOX revival owned by Row, RIOT33k and Dudebloke. We are not affiliated with the ROBLOX Corporation. 
 
